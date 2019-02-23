@@ -1,4 +1,3 @@
 # TestGit
 
-Lee Do Kyung<br>
-Master
+GIT TEST REPOSITORY
